@@ -8,195 +8,214 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Harish Kadamudi
+    tagline: Lead Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: harish.kadamudi@gmail.com
+    phone: 9*********
+    timezone: Asia/Calcutta Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #website: blog.webjeda.com #do not add http://
+    linkedin: harishkadamudi
+    #xing: alandoe
+    github: harishkadamudi
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    twitter: '@harishkadamudi'
+    stack-overflow: 974065/harish-kadamudi
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Kannada
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Badminton
           link:
 
-        - item: Snowboarding
+        - item: Trekking
+          link:
+        
+        - item: Cricket
           link:
 
-        - item: Cooking
+        - item: Football
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Nearly 13 years of experience in requirement analysis, software design, development, implementation, support and management for software like Banking Finance Wealth Management, Real Estate and Insurance Solutions, Strategic Enterprise Solutions, Micro Services Architecture, Multi-Tier Distributed Architecture, e-Commerce / internet applications
+      - Highly accomplished senior engineer with extensive expertise in cloud adoption, architectural design, and data operations. 
+      - With a proven track record of delivering exceptional technical solutions. I possess the skills, experience, and insights to seamlessly transition applications, computing platforms, and data operations to the cloud. 
+      - Certified AWS solution Architect and MongoDB Certified Developer. 
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+      - degree: B.E in Electronics and Communication
+        university: Visvesvaraya  Technology University
+        time: 2005-2009
+        
+      
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead Software Engineer
+        time: 2017 - Present
+        company: JP Morgan Service India Private Limited
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+         Story by J.P. Morgan is a digital platform for property managers and their tenants, 
+         providing online invoicing, payment processing, lease tracking, and more. 
+         By providing secure tools, resources, and services, Story delivers an easy, convenient, 
+         and secure way for you to pay rent digitally. The new multifamily rental management platform 
+         for property owners of all experience levels. Here, users can manage tenant payments and learn market trends.
+            - Design, deploy, and manage our cloud infrastructure using leading cloud platforms such as Amazon Web Services (AWS), GKP (self-hosted), or EKS (AWS).
+            - Design, develop, and deploy backend services and applications using the Java/Go/NodeJs programming language.
+            - Collaborate with product managers, designers, and other developers to understand requirements and translate them into technical solutions.
+            - Write clean, efficient, and maintainable code that follows best practices and coding standards.
+            - Implement and maintain unit tests and integration tests to ensure code quality and reliability.
+            - Optimize application performance and scalability through profiling, tuning, and code refactoring.
+            - Provide strategic guidance on cloud architecture, microservices, containerization, and serverless computing to drive innovation and efficiency.
+            - Collaborate with cross-functional teams to integrate software components and ensure smooth system integration.
+            - Develop and implement cloud-based architectures, including networking, storage, compute, and security components, to meet the needs of our applications and services.
+            - Optimize the performance and cost-efficiency of cloud resources by leveraging cloud-native services and applying industry best practices.
+            - Collaborate with development teams to define and implement cloud deployment strategies, including continuous integration/continuous deployment (CI/CD) pipelines.
+            - Monitor and troubleshoot cloud infrastructure to ensure high availability, reliability, and performance.
+            - Implement security measures to protect cloud-based resources, including identity and access management, encryption, and security monitoring.
+            - Collaborate with cross-functional teams, including developers, system administrators, and network engineers, to drive effective cloud integration and interoperability.
+            - Document technical procedures, guidelines, and best practices related to cloud infrastructure and operations.
+            - Participate in Agile/Scrum development practices, including sprint planning, stand-up meetings, and retrospectives.
+
+      - role: Module Lead
+        time: 2015 - 2017
+        company: NOUS Infosystems
+        details: |
+          FolioDynamix is leading the evolution of the wealth management experience, with an end-to-end technology solution paired with a suite of advisory tools including model portfolios, 
+          research, and overlay management services. Through our powerful technology platform, advisors can manage the entire client lifecycle from proposal generation to account opening to account management 
+          (trading and rebalancing) to reporting, all through a sophisticated but easy-to-use cloud-based solution
+            - Played Key Role for Architecting Legacy Application (Multi page application) to Advisory Portal Application (Single Page Application) using jax-rs REST architecture and Ext JS 6.0.
+            - Designing REST API Design - Resource Modeling.
+            - Document REST API using Swagger framework.
+            - Writing modular application and following Sonar Reports to close project finding.
+            - Branding the application to be used by many clients, with different deployment types like shared
+            and dedicated environments.
+            - Wrote ANT scripts to support client requirements for Branding the application and deployments.
+            - Requirement gathering through JIRA, and follow JIRA life cycle in Analyzing, Clarification,
+            Estimating, and developing the requirement.
+            - Coordinate with internal and external resources as necessary, Familiarize the team with the
+            customer needs, specifications, design targets, the development process, design standards,
+            techniques and tools to support task performance
+            - Ensure deliverable are prepared to satisfy the project requirements, cost and schedule and Help
+            keep the team focused and on track.
+            - Provide status reporting of team activities against the program plan or schedule, Keep the
+            project manager and product committee informed of task accomplishment, issues and status
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: 2013 - 2015
+        company: HCL Technologies
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Deliver new and complex high quality solutions to clients in response to varying business 
+            Requirements.
+            - Application migration to Dweb and DAP portal instances in accordance with Duetsche Bank
+            Standards.
+            - Proactively Involved in requirement analysis, migration of application from weblogic 10.x to 12.x
+            - Designed and developed 4 eyes (Application + WebSSO) authentication layer for the application.
+            - Designed and developed new complex modules according to the standards maintained by DB.
+            - Involved in testing the modules of application & maintaining applications for IE compatibility.
+            - Involved in Data base Migration and maintained a track record of application for veracode
+            scanning.
+            - Maintenance of the product including Bug Fixing, Enhancements etc.
+      - role:  Software Engineer
+        time: 2010 - 2013
+        company: Core Business Software Solutions
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Delivered complex & high quality solutions to clients in response to varying business requirements.
+            - Involved in requirement analysis.
+            - Actively involved in developing Webpages by using JSP, Servlets, and HTML.
+            - Used MS SQL 2000 to access data from database servers.
+            - Involved in migration of modules from Servlets to MVC.
+            - Handling the independent module (Session Management).
+            - Involved in testing all the modules of application.
+            - Involved in Database Maintenance.
+            - Maintenance of the product including Bug Fixing, Enhancements etc.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name: AWS solution Architect
+          start: 2023
+          #end: 2021
+          organization: AWS
+         # credentialid: 111-222
+         # credentialurl: www.google.com
+          #credentialname: Google
+          # details: |
+          #   Details about cert. Lorem ipsum dolor sit amet, consectetur
+          #   adipiscing elit.
+          #   Nullam eget orci purus. Nullam ultrices neque nibh.
+          #   Aenean fermentum, felis vulputate suscipit accumsan,
+          #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+          #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+          #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+          #   Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+          #   Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+          #   fringilla vel. Ut euismod, sem sed vulputate venenatis,
+          #   justo diam viverra velit, sed rhoncus leo leo eu justo.
+          #   Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: MongoDB Certified Developer.
           start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          # end:
+          organization: MongoDB
+          # credentialid: 111-222
+          # credentialurl: www.github.com
+          # credentialname: Github
+          # details: |
+          #   Older certification. Lorem ipsum dolor sit amet, consectetur
+          #   adipiscing elit.
+          #   Nullam eget orci purus. Nullam ultrices neque nibh.
+          #   Aenean fermentum, felis vulputate suscipit accumsan,
+          #   sem enim bibendum augue, sed convallis arcu lacus at dui.
+          #   Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+          #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+          #   Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My open source contribution
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: client-go-examples
+        link: "https://github.com/harishkadamudi/client-go-example"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
+      - title: aws-eks-kubernetes-masterclass
+        link: "https://github.com/harishkadamudi/aws-eks-kubernetes-masterclass"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
+      - title: client-go-demo
+        link: "https://github.com/harishkadamudi/opa-istio-policy"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: opa-istio-policy
+        link: "https://github.com/harishkadamudi/opa-istio-policy"
+        tagline: "This repo contains information for policies to grant access to a web application accoding to a given role included in a JWT. It works with istio (not envoy) as mesh service"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: sapt
+        link: "https://github.com/harishkadamudi/sapt"
+        tagline: "✨ A minimal and easy to use service mesh based on envoy"
 
 oss:
     title: OSS Contributions
@@ -216,6 +235,52 @@ oss:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+soft-skill:
+    title: Software Skills
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Cloud Platforms
+        tagline: "Proficiency in cloud platforms such as Amazon Web Services (AWS), GKP (self-hosted). Understanding the core services, infrastructure, and management capabilities of the chosen cloud platform is essential."
+      - title: Infrastructure-as-a-Service (IaaS)
+        tagline: "Experience with Infrastructure-as-Code tools like Terraform or Ansible for provisioning and managing infrastructure resources required by Kubernetes, including virtual machines, storage, and networking."
+      - title: Platform-as-a-Service (PaaS)
+        tagline: Familiarity with PaaS offerings, such as AWS Elastic Beanstalk, or Google App Engine, and the ability to deploy, manage, and scale applications on these platforms.
+      - title: Software-as-a-Service (SaaS) 
+        tagline: Understanding of SaaS models and experience working with cloud-based software applications and services.
+      - title: Infrastructure as Code (IaC)
+        tagline: Experienced in working with tools such as Terraform, CloudFormation, Infrastructure Abstraction, Configuration Management
+      - title: Developer Experience (DX)
+        tagline:  Documentation, SDKs and Tooling, Sample Code and Tutorials, Community and Support, Integration and Interoperability, Continuous Improvement and Iterative Improvement
+      - title: Cloud Security
+        tagline: Knowledge of cloud security best practices, including identity and access management (IAM), encryption, network security groups, and security monitoring in the cloud environment.
+      - title: Serverless Computing
+        tagline: Proficiency in serverless computing concepts and experience with serverless platforms like AWS Lambda, for building event-driven, scalable, and cost-effective applications.
+      - title: Containers and Orchestration
+        tagline: Knowledge of containerization technologies such as Docker and container orchestration platforms like Kubernetes for building and managing containerized applications in the cloud.
+      - title: Kubernetes
+        tagline: Expertise in Kubernetes, including in-depth knowledge of its architecture, components, and core concepts such as pods, deployments, services, ingress, persistent volumes, and namespaces.
+      - title: Kubernetes Operators
+        tagline: Familiarity with Kubernetes Operators, which enable the automation of complex application management tasks, and the ability to design and develop custom Operators using tools like Operator SDK.
+      - title: Hybrid and Multi-cloud Environments
+        tagline: Experience in designing and managing hybrid cloud or multi-cloud environments, including integrating on-premises infrastructure with cloud resources and managing cloud services across multiple providers.
+      - title: Programming Languages
+        tagline: Expertise in one or more programming languages, such as Java (spring framework), Golang, NodeJs, Python, JavaScript and Ruby, with a deep understanding of language-specific features, syntax, and best practices.
+      - title: Database Design and Management
+        tagline: Experience in designing and working with relational databases (e.g., MySQL, PostgreSQL, Oracle) or NoSQL databases (e.g., MongoDB, Redis), including data modeling, indexing, query optimization, and database administration.
+      - title: Software Security
+        tagline: Knowledge of software security principles, secure coding practices, and common vulnerabilities (e.g., OWASP Top 10) to develop secure and resilient software applications.
+      - title: API Development
+        tagline: Knowledge of designing and building RESTful or GraphQL APIs, including API documentation, versioning, authentication, and authorization mechanisms.
+      - title: Testing and Quality Assurance
+        tagline: Expertise in various testing methodologies, including unit testing, integration testing, and automated testing frameworks (e.g., JUnit, NUnit, Selenium), to ensure software quality and reliability.
+      - title: Project Management
+        tagline: Familiarity with project management methodologies and tools, including task management, agile boards (e.g., Jira, Trello), and project tracking, to effectively plan, prioritize, and deliver software projects.
+ 
+
 
 publications:
     title: Publications
@@ -243,23 +308,38 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java & Spring
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Golang
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: python
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Container and Docker
+        level: 90%
+
+      - name: Kubernetes and Kubernetes Operators
+        level: 90%
+      
+      - name: Envoy
+        level: 90%
+      
+      - name: ExtJs
+        level: 75%
+
+      - name: Oracle, MySql and PostgreSQL
+        level: 85%
+      
+      - name: AWS
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
